@@ -27,7 +27,7 @@ published_at: 2024-04-20 16:15 # 公開日時を指定(publishedがtrueの場合
 
 プレビュー
 ```shell
-npz zenn preview
+npx zenn preview
 ```
 
 投稿
